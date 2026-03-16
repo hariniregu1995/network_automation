@@ -1,0 +1,5 @@
+devices:
+  aws_server:
+    host: EC2_PUBLIC_IP
+    username: ubuntu
+    key_file: ~/.ssh/aws-key.pem
